@@ -1,8 +1,8 @@
 {
-  "name": "macfja/tracy-doctrine-sql",
+  "name": "ptflp/tracy-doctrine-sql",
   "type": "library",
   "keywords": ["Tracy", "Debugger", "Doctrine", "SQL", "Panel", "Bar"],
-  "description": "A Tracy panel for Doctrine SQL queries",
+  "description": "A Tracy panel for Doctrine SQL queries. For of MacFJA/tracy-doctrine-sql",
   "authors": [
     {
       "name": "MacFJA"
@@ -11,7 +11,7 @@
   "license": "MIT",
   "autoload": {
     "psr-4": {
-      "MacFJA\\Tracy\\": "lib/"
+      "ptflp\\Tracy\\": "lib/"
     }
   },
   "require": {

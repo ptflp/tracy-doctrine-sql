@@ -1,6 +1,6 @@
 <?php
 
-namespace MacFJA\Tracy;
+namespace ptflp\Tracy;
 
 use Doctrine\DBAL\Logging\DebugStack;
 use Doctrine\DBAL\Configuration;
